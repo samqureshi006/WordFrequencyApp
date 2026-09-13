@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WordFrequencyApp.Application\WordFrequencyApp.Application.csproj" />
+    <ProjectReference Include="..\WordFrequencyApp.Domain\WordFrequencyApp.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

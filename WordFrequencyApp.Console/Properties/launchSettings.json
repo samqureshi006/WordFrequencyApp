@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WordFrequencyApp.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\projects\\Git\\Learning\\TestProject\\WordFrequencyApp\\mobydick.txt\""
+    }
+  }
+}
